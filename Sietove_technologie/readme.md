@@ -1,4 +1,0 @@
-# SIE
-
-## Sieťové technológie
-
